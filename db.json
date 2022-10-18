@@ -1,0 +1,22 @@
+{
+  "acc": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "Rega",
+      "password": "123",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "Rega",
+      "password": "aaeaer",
+      "role": "siswa",
+      "id": 3
+    }
+  ]
+}
