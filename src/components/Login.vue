@@ -7,6 +7,7 @@
         type="text"
         name="username"
         v-model="form.username"
+        required
         class="form_login"
         placeholder="Masukkan Username atau email .."
         />
@@ -15,6 +16,7 @@
         type="password"
         name="password"
         v-model="form.password"
+        required
         class="form_login"
         placeholder="Password.."
         />

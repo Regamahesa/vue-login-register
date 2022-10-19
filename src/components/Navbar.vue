@@ -14,28 +14,28 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
-        <li class="nav-item active">
+        <li class="nav-item active a">
           <router-link class="nav-link" to="/home" v-if="adminAcces"
             >Home</router-link
           >
         </li>
-        <li class="nav-item">
+        <li class="nav-item a">
           <router-link class="nav-link" to="/about" v-if="adminAcces"
             >About</router-link
           >
         </li>
-        <li class="nav-item">
+        <li class="nav-item a">
           <router-link class="nav-link" to="/contact" v-if="adminAcces"
             >Contact</router-link
           >
         </li>
-        <li class="nav-item">
+        <li class="nav-item a">
           <router-link class="nav-link" to="/product">Produk</router-link>
         </li>
-        <li class="nav-item">
+        <li class="nav-item a">
           <router-link class="nav-link" to="/detail">Detail</router-link>
         </li>
-        <li class="nav-item" @click="out()">
+        <li class="nav-item a" @click="out">
           <router-link to="/" class="nav-link log">Log Out</router-link>
         </li>
       </ul>
@@ -63,5 +63,8 @@ export default {
 <style scoped>
 .log {
   margin-left: 850px;
+}
+.a {
+  color: white;
 }
 </style>

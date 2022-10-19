@@ -18,5 +18,89 @@
       "role": "siswa",
       "id": 3
     }
+  ],
+  "motors": [
+    {
+      "merk": "Honda",
+      "tipe": "Cbr 150r",
+      "bahan": "Bensin Pertamax",
+      "harga": "Rp 36.741.000",
+      "image": "https://asset.kompas.com/crops/S9e4GG4br8MBCQoqJYnGPHQ0org=/141x0:628x325/750x500/data/photo/2022/08/01/62e7a16db6346.png",
+      "id": 0
+    },
+    {
+      "merk": "Kawasaki",
+      "tipe": "Zx-25rr Abs",
+      "bahan": "Bensin Pertamax Turbo",
+      "harga": " Rp 116.000.000",
+      "image": "https://ardiantoyugo.com/wp-content/uploads/2022/10/kawasaki-ninja-zx-25rr-2023-1-768x474.jpg",
+      "id": 1
+    },
+    {
+      "merk": "Yamaha",
+      "tipe": "R6",
+      "bahan": "Bensin Pertamax Turbo",
+      "harga": "Rp 270.000.000",
+      "image": "https://akcdn.detik.net.id/visual/2020/11/19/yamaha-yzf-r6_169.jpeg?w=650",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "merk": "Suzuki",
+      "tipe": "GSX 250",
+      "harga": "Rp 57.240.000",
+      "bahan": "Bensin Pertamax",
+      "image": "https://asset.kompas.com/crops/kSTa8NY3b5r85JmD55SgrNoCflE=/74x8:717x437/750x500/data/photo/2022/06/01/6296a142cbdca.jpg"
+    },
+    {
+      "merk": "Yamaha",
+      "tipe": "YZF-R25",
+      "bahan": "Bensin Pertamax",
+      "harga": "Rp 59.780.000",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/11/19/274666017.jpg",
+      "id": 4
+    }
+  ],
+  "mobils": [
+    {
+      "merk": "Toyota",
+      "tipe": "Supra MK4",
+      "bahan": "Bensin Shell V-Power ",
+      "harga": "Rp 2.500,000,000",
+      "image": "https://pemerintahkota.com/wp-content/uploads/2021/11/toyota-supraa.jpg",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "merk": "Honda",
+      "tipe": "Civic Turbo",
+      "bahan": "Bensin Shell V-Power ",
+      "harga": "Rp 575.000.000",
+      "image": "https://imgcdnblog.carvaganza.com/wp-content/uploads/2020/02/Honda-Civic-Hatchback_03.jpg"
+    },
+    {
+      "id": 2,
+      "merk": "Honda",
+      "tipe": "Honda Brio",
+      "bahan": "Bensin Pertamax",
+      "harga": "Rp 237.400.000",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/14/1995/honda-brio-front-medium-view-587795.jpg"
+    },
+    {
+      "id": 3,
+      "merk": "Toyota",
+      "tipe": "All New Avanza",
+      "bahan": "Bensin Pertalite",
+      "harga": " Rp 255.100.000",
+      "image": "https://s1.bukalapak.com/bukalapak-kontenz-production/content_attachments/75636/original/Varian_All_New_Avanza_2022_main.jpg"
+    },
+    {
+      "id": 4,
+      "merk": "Mitsubishi",
+      "tipe": "Pajero sport",
+      "bahan": "Bensin Pertamax",
+      "harga": "Rp 712.500,000",
+      "image": "https://cdn1-production-images-kly.akamaized.net/uueBh71rSaUEPEEn5gbefh1o1EU=/1200x900/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3378900/original/019671100_1613534026-pajero_sport.jpg"
+    }
   ]
 }
